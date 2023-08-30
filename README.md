@@ -10,6 +10,3 @@ I'm a Data Scientist, Improv Coach/Performer, Appetizer Lover and have **BIG** d
 ## Current Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=py,sqlite,vscode,github,bash,powershell&perline=6)](https://skillicons.dev)
-
-
-[![Spotify](https://<vercel-domain>.vercel.app/api/spotify)](https://open.spotify.com/user/<raxmoss>)
