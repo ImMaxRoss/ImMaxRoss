@@ -11,4 +11,4 @@ I'm a Data Scientist, Improv Coach/Performer, Appetizer Lover and have **BIG** d
 
 [![My Skills](https://skillicons.dev/icons?i=py,sqlite,vscode,github,bash&perline=5)](https://skillicons.dev)
 
-<img src="{https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white}" />
+![image]({https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white})
