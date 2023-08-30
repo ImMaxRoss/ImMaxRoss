@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on: [A Real Estate Time Series](https://github.com/ImMaxRoss/time_series_modeling) as well as the current [Maven Analytics Challenge](https://mavenanalytics.io/challenges)
 - 📫 How to reach me: [Gmail](max@maxross.com)
 
-[![My Skills](https://skillicons.dev/icons?i=py,sqlite,vscode,github,bash,powershell&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sqlite,vscode,github,bash,powershell&perline=6)](https://skillicons.dev)
 
 <!--
 **ImMaxRoss/ImMaxRoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
