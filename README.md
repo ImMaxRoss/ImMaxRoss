@@ -10,5 +10,3 @@ I'm a Data Scientist, Improv Coach/Performer, Appetizer Lover and have **BIG** d
 ## Current Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=py,sqlite,vscode,github,bash&perline=5)](https://skillicons.dev)
-
-![image]({https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white})
