@@ -1,6 +1,6 @@
 ## Hi there, I'm Max Ross👋
 
-I'm a Data Scientist, Improv Coach/Performer, Appetizer Lover and have **BIG** data dreams!!
+I'm a Data Engineer/Analyst, Improv Coach/Performer, Appetizer Lover and have **BIG** data dreams!!
 
 - 🔭 I’m currently working on: [The Kaggle NFL Big Data Bowl 2024 competition](https://github.com/ImMaxRoss/Kaggle_NFL_bowl2024)
 - 📫 How to reach me: max@maxross.com
