@@ -2,7 +2,7 @@
 
 I'm a Data Engineer/Analyst, Improv Coach/Performer, Appetizer Lover and have **BIG** data dreams!!
 
-- 🔭 I’m currently working on: [Patient_AWS_pipe](https://github.com/ImMaxRoss/Patient_AWS_pipe)
+- 🔭 I’m currently working on: [WITBIT: Improv Scene Partner LLM](https://github.com/ImMaxRoss/WITBIT)
 - 📫 How to reach me: max@maxross.com
 - 👷 For hire through: [Cognixia Jump](https://www.cognixia.com/companies/hire-skilled-talent/)
 - 👯 I’m looking to collaborate on any data project you can think of ESPECIALLY engineering pipelines and databases to solve problems for creatives.
