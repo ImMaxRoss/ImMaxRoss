@@ -5,7 +5,7 @@ I'm a Data Engineer/Analyst, Improv Coach/Performer, Appetizer Lover and have **
 - 🔭 I’m currently working on: [WITBIT: The Improv Scene Partner RAG](https://github.com/ImMaxRoss/WITBIT)
 - 📫 How to reach me: max@maxross.com
 - 👷 For hire through: [Cognixia Jump](https://www.cognixia.com/companies/hire-skilled-talent/)
-- 👯 I’m looking to collaborate on any data project you can think of ESPECIALLY engineering pipelines and databases to solve problems for creatives.
+- 👯 Looking to collaborate on data projects solving creative problems.
 - ⚡ Fun fact: I perform and coach Improv in NYC at [The Magnet Theater](https://magnettheater.com/)
 
 ## Current Tech Stack:
