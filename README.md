@@ -2,7 +2,7 @@
 
 I'm a Data Engineer/Analyst, Improv Coach/Performer, Appetizer Lover and have **BIG** data dreams!!
 
-- 🔭 I’m currently working on: [TuneAttic](https://github.com/ImMaxRoss/TuneAttic)
+- 🔭 I’m currently working on: [LaughTrack](https://github.com/ImMaxRoss/LaughTrack)
 - 📫 How to reach me: max@maxross.com
 - 👷 For hire through: [Cognixia Jump](https://www.cognixia.com/companies/hire-skilled-talent/)
 - 👯 Looking to collaborate on data projects solving creative problems.
