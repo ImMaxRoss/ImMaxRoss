@@ -4,7 +4,7 @@ I'm a Data Engineer/Analyst, Improv Coach/Performer, Appetizer Lover and have **
 
 - 🔭 I’m currently working on: [LaughTrack](https://github.com/ImMaxRoss/LaughTrack)
 - 📫 How to reach me: max@maxross.com
-- 👷 For hire through: [Cognixia Jump](https://www.cognixia.com/companies/hire-skilled-talent/)
+- 👷 Data Engineer/Java TA: [Cognixia Jump](https://www.cognixia.com/companies/hire-skilled-talent/)
 - 👯 Looking to collaborate on data projects solving creative problems.
 - ⚡ Fun fact: I perform and coach Improv in NYC at [The Magnet Theater](https://magnettheater.com/)
 
