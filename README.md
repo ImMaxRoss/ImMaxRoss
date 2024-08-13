@@ -10,4 +10,6 @@ I'm a Data Engineer/Analyst, Improv Coach/Performer, Appetizer Lover and have **
 
 ## Current Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,aws,git,bash,vscode,anaconda,windows&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,mysql,git,aws,dynamodb,docker,vscode&perline=4)](https://skillicons.dev)
+
+
