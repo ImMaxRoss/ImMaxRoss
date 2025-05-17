@@ -2,7 +2,7 @@
 
 I'm a Data Engineer/Analyst, Improv Coach/Performer, Appetizer Lover and have **BIG** data dreams!!
 
-- 🔭 I’m currently working on: [EcomAWS_Full-Stack](https://github.com/ImMaxRoss/EcomAWS_Full-Stack)
+- 🔭 I’m currently working on: [NYC-Improv-United](https://github.com/ImMaxRoss/NYC-Improv-United)
 - 📫 How to reach me: max@maxross.com
 - 👷 Data Engineer/Java TA: [Cognixia Jump](https://www.cognixia.com/companies/hire-skilled-talent/)
 - 👯 Looking to collaborate on any data projects from simple spreadsheet formatting to designing ETL pipelines.
